@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0a55b4d-313e-4fcc-85a2-12b7d878d8e9": {
+      "ProjectGuid": "d0a55b4d-313e-4fcc-85a2-12b7d878d8e9",
+      "DisplayName": "AI_MAZE_Project",
+      "ColorIndex": 0
+    },
+    "6bb85785-cd9d-4844-8ed2-fd80c1a90c45": {
+      "ProjectGuid": "6bb85785-cd9d-4844-8ed2-fd80c1a90c45",
+      "DisplayName": "AI_MAZE_Project_Eller",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

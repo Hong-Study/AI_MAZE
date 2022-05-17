@@ -1,0 +1,8 @@
+﻿  Board.cpp
+D:\VisualStudio\AI_MAZE_Project\AI_MAZE_Project\Board.cpp(153,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\VisualStudio\AI_MAZE_Project\AI_MAZE_Project\Board.cpp(168,27): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\VisualStudio\AI_MAZE_Project\AI_MAZE_Project\Board.cpp(168,30): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\VisualStudio\AI_MAZE_Project\AI_MAZE_Project\Board.cpp(170,69): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Main.cpp
+  코드를 생성하고 있습니다...
+  AI_MAZE_Project.vcxproj -> D:\VisualStudio\AI_MAZE_Project\x64\Debug\AI_MAZE_Project.exe
